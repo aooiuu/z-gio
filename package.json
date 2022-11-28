@@ -1,0 +1,44 @@
+{
+  "name": "z-gio",
+  "version": "0.0.3",
+  "private": false,
+  "description": "",
+  "main": "./src/index.js",
+  "type": "module",
+  "keywords": [
+    "gio",
+    "growingio"
+  ],
+  "scripts": {
+    "zgio": "node ./src/index.js"
+  },
+  "bin": {
+    "zgio": "./src/index.js"
+  },
+  "license": "MIT",
+  "author": "aooiu",
+  "homepage": "https://github.com/aooiuu/z-gio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aooiuu/z-gio"
+  },
+  "bugs": {
+    "url": "https://github.com/aooiuu/z-gio"
+  },
+  "dependencies": {
+    "axios": "^1.2.0",
+    "commander": "^9.4.1",
+    "compressing": "^1.6.2",
+    "conf": "^10.2.0",
+    "csvtojson": "^2.0.10",
+    "download": "^8.0.0",
+    "env-paths": "^3.0.0",
+    "fs-extra": "^10.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.0"
+  }
+}
