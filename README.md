@@ -1,4 +1,6 @@
-# z-gio
+<h1 align="center">z-gio</h1>
+
+![z-gio](https://img.shields.io/npm/v/z-gio.svg?style=flat-square) ![z-gio](https://img.shields.io/npm/dt/z-gio.svg)
 
 > growingio 命令行工具
 
